@@ -12,5 +12,13 @@ https://protopedia.net/prototype/6628
 
 ![Making Step](figure01.png)
 
+## history
 
+### v2.0
+
+2025.09.12
+
+### v1.0
+
+2025.02.28 
 
