@@ -1,24 +1,19 @@
-# stackco-chan
+# Stackco-chan
 
 ## What is it
 
-This is "Stakko-chan," a mini robot with octopus-like legs.
+This is "Stacko-chan".
+
+It is a small robot model with octopus-like legs.
+
+Octopus is called "Tako" in Japanese.
+
+It is also a derivative of the palm-sized robot "Stack-chan", which is powered by M5Stack.
 
 more information (Japanese Only).
 
 https://protopedia.net/prototype/6628
 
-## How to use
+## How to build
 
 ![Making Step](figure01.png)
-
-## history
-
-### v2.0
-
-2025.09.12
-
-### v1.0
-
-2025.02.28 
-
